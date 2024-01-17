@@ -1,0 +1,4 @@
+git add questions.md
+git commit -m "Answered the questions of questions.md"
+git push origin feature/nguisnel
+git push origin --all
